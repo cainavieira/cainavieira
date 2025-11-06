@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a inventory system management.<br>🌱 I’m currently  in my second semester on Uni and learning Python, PostgreSQL and CI/CD.<br>💬 Ask me about anything related to git commands. I bet I can answer.<br>⚡ Fun fact about me is that I am addicted to chess.
+🔭 I’m currently working on a deploying projects to get a job.<br>🌱 I’m currently  in my second semester on Uni and learning Python, PostgreSQL and CI/CD.<br>💬 Ask me about anything related to git commands. I bet I can answer.<br>⚡ Fun fact about me is that I am addicted to chess.
 
 
 # 💻 Tech Stack:

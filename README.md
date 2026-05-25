@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on home-lab repo and building a system with React/Spring Boot<br>🌱 I’m currently in my third semester on UNI and learning React, React Native, Linux and Cloud. <br>💬 Ask me about anything related to Front-end concepts. I bet I can answer.<br>👨‍💻 I regularly do exercises in beecrowd because I am part of the Programming Club from UNI<br>⚡ Fun fact about me is that I am addicted to chess.
+🔭 I’m currently working on home-lab repo and building a system with React/Spring Boot called eridu. <br>🌱 I’m currently in my third semester on UNI and learning React, React Native, Linux and Cloud. <br>💬 Ask me about anything related to Front-end concepts. I bet I can answer.<br>👨‍💻 I regularly do exercises in beecrowd because I am part of the Programming Club from UNI<br>⚡ Fun fact about me is that I am addicted to chess.
 
 
 ## 🌐 Socials:
